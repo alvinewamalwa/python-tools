@@ -1,5 +1,6 @@
-This tool scans raw text and extracts Indicators of Compromise (IOCs) including IP addresses, file hashes, and URLs. I tested it using a simulated malicious file (free-coffee.zip) from my SOC lab environment and found that it improves efficiency, minimizes missed indicators, and streamlines the investigation process.
-
+#This tool scans raw text and extracts Indicators of Compromise (IOCs) including IP addresses, file hashes,
+#and URLs. I tested it using a simulated malicious file (free-coffee.zip) from a SOC lab environment
+#and found that it improves efficiency, minimizes missed indicators, and streamlines the investigation process.
 
 
 import re
